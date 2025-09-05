@@ -80,7 +80,7 @@ uniapp-web3-starter/
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 开启一个 Pull Request
 
-请阅读 [CONTRIBUTING.md](https://contributing.md/) 了解详细的贡献指南。
+请阅读 [CONTRIBUTING.md](contributing.md) 了解详细的贡献指南。
 
 ## 📄 许可证
 
