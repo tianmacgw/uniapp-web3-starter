@@ -1,0 +1,19 @@
+{
+	"name": "uniapp-web3-starter",
+	"version": "1.0.0",
+	"description": "A UniApp-based starter template for Web3 DApp development",
+	"keywords": [
+		"uniapp",
+		"web3",
+		"ethers.js",
+		"dapp",
+		"ethereum",
+		"blockchain",
+		"metamask"
+	],
+	"author": "tianmacgw",
+	"license": "MIT",
+	"dependencies": {
+		"ethers": "^6.15.0"
+	}
+}
